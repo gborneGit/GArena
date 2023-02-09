@@ -1,0 +1,21 @@
+world: 'world_arene'
+
+arenas:
+  '0':
+    name: 'Arène1'
+    loc1: '25,26,-8'
+    loc2: '-33,50,36'
+    players: 2
+    loss_stuff: true
+    spawns:
+      - '-17.5,36,10.5,-90,0'
+      - '13.5,36,10.5,90,0'
+  '1':
+    name: 'Arène2'
+    loc1: '564,53,478'
+    loc2: '497,29,527'
+    players: 2
+    loss_stuff: true
+    spawns:
+      - '546.5,39,500.5,90,0'
+      - '515.5,39,500.5,-90,0'
