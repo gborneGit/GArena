@@ -1,4 +1,8 @@
+<p align="center">
+<img src="https://github.com/gborneGit/gborneGit/blob/main/EcoCraft_logo_transparent.png" width="100"/>
+</p>
 
+# Plugin Minecraft pour le serveur EcoCraft : Gestion des combats en arène multijoueurs
 
 Ce plugin Minecraft permet aux joueurs du serveur EcoCraft de combattre dans des arènes multijoueurs. Les joueurs peuvent configurer plusieurs arènes en définissant leurs noms, leurs emplacements, le nombre de joueurs et les emplacements de spawn pour chaque joueur. Le plugin prend également en charge la perte de l'équipement lors de la mort du joueur et la mise à zéro de son inventaire.
 
